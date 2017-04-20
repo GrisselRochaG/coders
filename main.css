@@ -1,0 +1,32 @@
+hr{
+	width: 150px;
+	height: 3px;
+	background-color: black;
+	margin-left: 20px;
+}
+h1{
+	margin-left: 20px;
+}
+.show{
+	display: inline-block;
+	margin: 20px;
+	/*opacity: 0.5;*/
+}
+img{
+	opacity: 0.5;
+	position: absolute;
+}
+.size{
+	width: 211px;
+	height: 211px;
+}
+p{
+	position: relative;
+	left: 80px;
+	top: 170px;
+	opacity: 1;
+	color: black;
+}
+img:hover{
+	opacity: 1;
+}
